@@ -6,3 +6,15 @@ This are my star projects build from scratch for my portfolio as data analyst i 
  
 2) Naive Bayes data-analysis
 In this project i have applied the naives bayes algorithm to weather dataset which predicts whether it should go for playing or not ,diabetes prediction dataset and breast cancer detection dataset.
+
+3) Parts of speech tagger
+A parts of speech tagger where if we put a sentence in pos_tag function we get value of which parts of speech each word of that sentence belong to .Pos tagger is used for Grammar correction system ,Sentiment Analysis etc.
+
+4) Product Recommender
+I have used Term Frequency and Inverse Document Frequency (TF — IDF)and cosine_similarities to find the similarity between products in database and recommend common product to the selected product by consumer.
+
+5) Stock market analysis using apple stock data  base
+I have used apple stock market latest data set from google.finance.com and applied regression models on it to check out the predictions.
+
+6) Product recomender using image processing in matlab
+I have used HSV and Gabor radon algorithm to extract texture and color features of a image and later calculate euclidean distance between the query vector and the database of feature factor of images and best 10 images would be displayed.
