@@ -1,5 +1,5 @@
 # Data-analysis-star-projects-portfolio
-This are my star projects build from scratch for my portfolio as data analyst i have used Python for programming.
+This are my star projects build from scratch, I have used Python for programming.
 
 1) Iris Data set analysis -Machine learning project
  In this project i have worked on iris data set with 150 samples of data ,and by using 6 different algorithms i have tried to find best fit for by prediction model ,later on i have used my built model on test data set to see the correctness of predictionand hence with charactteristics like sepal-length,petal-width etc 4 chracteristics we can predict the class of the flower.
@@ -18,3 +18,7 @@ I have used apple stock market latest data set from google.finance.com and appli
 
 6) Product recomender using image processing in matlab
 I have used HSV and Gabor radon algorithm to extract texture and color features of a image and later calculate euclidean distance between the query vector and the database of feature factor of images and best 10 images would be displayed.
+
+7)Human activity recognization 
+
+The Human Activity Recognition database was built from the recordings of 30 study participants performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. The objective is to classify activities into one of the six activities performed.
