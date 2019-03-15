@@ -19,6 +19,6 @@ I have used apple stock market latest data set from google.finance.com and appli
 6) Product recomender using image processing in matlab
 I have used HSV and Gabor radon algorithm to extract texture and color features of a image and later calculate euclidean distance between the query vector and the database of feature factor of images and best 10 images would be displayed.
 
-7)Human activity recognization 
+7) Human activity recognization 
 
 The Human Activity Recognition database was built from the recordings of 30 study participants performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. The objective is to classify activities into one of the six activities performed.
