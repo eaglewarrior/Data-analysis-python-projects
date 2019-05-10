@@ -21,3 +21,6 @@ I have used HSV and Gabor radon algorithm to extract texture and color features 
 
 7) Human activity recognization 
 The Human Activity Recognition database was built from the recordings of 30 study participants performing activities of daily living (ADL) while carrying a waist-mounted smartphone with embedded inertial sensors. The objective is to classify activities into one of the six activities performed.
+
+8) Predicting Financial distress
+Here I  have used a totally imbalanced dataset 3.8% of data includes sample of company who are under financial distress and rest 96% of data is of company with stable financial state.I have shown many techniques which are used for handling unbalanced data like undersampling, oversampling,etc.You can also fork my kaggle kernel https://www.kaggle.com/rinki24/financial-distress-prediction
