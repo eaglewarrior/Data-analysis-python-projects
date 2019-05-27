@@ -32,3 +32,8 @@ The Human Activity Recognition database was built from the recordings of 30 stud
 8) Predicting Financial distress
 
 Here I  have used a totally imbalanced dataset 3.8% of data includes sample of company who are under financial distress and rest 96% of data is of company with stable financial state.I have shown many techniques which are used for handling unbalanced data like undersampling, oversampling,etc.You can also fork my kaggle kernel https://www.kaggle.com/rinki24/financial-distress-prediction
+
+9) Analytics Vidhya : Loan Prediction III
+
+A classification problem based on whether a person's application for a loan would be passed or rejected or if a person is eligible for the loan amount requested (If a bank wanted to automate the loan granting process).
+
