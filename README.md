@@ -37,10 +37,13 @@ Here I  have used a totally imbalanced dataset 3.8% of data includes sample of c
 
 A classification problem based on whether a person's application for a loan would be passed or rejected or if a person is eligible for the loan amount requested (If a bank wanted to automate the loan granting process).
 
-10) WaterPump_Classification
+10) WaterPump_Classification (Top 30% among the teams participated)
 
 This DrivenData competition was for identification of Tanzmanian govertment's water data 
 I have used CatBoost algorithm which is proven to be best boosting algorithm for dataset having categorical values and as boosting algorithm has added advantage on working good on less data .
 
+Score: 0.7261
+Metric used :
+Classification Rate =1N∑Ni=0I(yi=yi^)
 Competition link: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
