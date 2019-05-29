@@ -43,7 +43,10 @@ This DrivenData competition was for identification of Tanzmanian govertment's wa
 I have used CatBoost algorithm which is proven to be best boosting algorithm for dataset having categorical values and as boosting algorithm has added advantage on working good on less data .
 
 Score: 0.7261
+
 Metric used :
+
 Classification Rate =1N∑Ni=0I(yi=yi^)
+
 Competition link: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
