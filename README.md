@@ -50,3 +50,7 @@ Classification Rate =1N∑Ni=0I(yi=yi^)
 
 Competition link: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
 
+11) Haptik data classification of small talk
+
+Made a simple classfier to help chatbot understand whether a chat is small talk or not used python, nltk and sklearn.
+
