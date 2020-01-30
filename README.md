@@ -54,3 +54,6 @@ Competition link: https://www.drivendata.org/competitions/7/pump-it-up-data-mini
 
 Made a simple classfier to help chatbot understand whether a chat is small talk or not used python, nltk and sklearn.
 
+12) Udacity ML competitions (https://www.kaggle.com/c/udacity-mlcharity-competition)
+
+Made submission in udacity ml competition got 64th Rank in the leaderboard 
